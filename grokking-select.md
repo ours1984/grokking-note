@@ -2,7 +2,7 @@
 title: '选择排序'
 date: '2022/4/4 22:46:25'
 tags: [算法]
-abbrlink: grokking-recursion
+abbrlink: grokking-select
 gitrep: grokking-note
 ---
 - 为阅读后续内容打下基础

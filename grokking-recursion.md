@@ -2,7 +2,7 @@
 title: '递归'
 date: '2022/4/6 22:46:25'
 tags: [算法]
-abbrlink: grokking-select
+abbrlink: grokking-recursion
 gitrep: grokking-note
 ---
 - 为阅读后续内容打下基础
