@@ -22,9 +22,9 @@ An Illustrated Guide for Programmers and Other Curious People
 
 <!--more-->
 
-- [Introduction(github)](grokking-introduction.md)：[算法简介(blog)](https://blog.ours1984.top/posts/grokking-introduction)
-- [Select(github)](grokking-select.md)：[选择排序(blog)](https://blog.ours1984.top/posts/grokking-select)
-- [Recursion(github)](grokking-recursion.md)：[递归(blog)](https://blog.ours1984.top/posts/grokking-recursion)
-- [Quick(github)](grokking-quick.md)：[快速排序(blog)](https://blog.ours1984.top/posts/grokking-quick)
-- [Map(github)](grokking-map.md)：[散列表(blog)](https://blog.ours1984.top/posts/grokking-map)
-- [BFS(github)](grokking-bfs.md)：[广度优先搜索(blog)](https://blog.ours1984.top/posts/grokking-bfs)
+- [Introduction(github)](grokking-search.md)：[算法简介(blog)](https://blog.ours1984.top/posts/grokking-introduction/)
+- [Select(github)](grokking-select.md)：[选择排序(blog)](https://blog.ours1984.top/posts/grokking-select/)
+- [Recursion(github)](grokking-recursion.md)：[递归(blog)](https://blog.ours1984.top/posts/grokking-recursion/)
+- [Quick(github)](grokking-search.md)：[快速排序(blog)](https://blog.ours1984.top/posts/grokking-quick/)
+- [Map(github)](grokking-map.md)：[散列表(blog)](https://blog.ours1984.top/posts/grokking-map/)
+- [BFS(github)](grokking-bfs.md)：[广度优先搜索(blog)](https://blog.ours1984.top/posts/grokking-bfs/)
