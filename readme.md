@@ -28,3 +28,4 @@ An Illustrated Guide for Programmers and Other Curious People
 - [Quick(github)](grokking-search.md)：[快速排序(blog)](https://blog.ours1984.top/posts/grokking-quick/)
 - [Map(github)](grokking-map.md)：[散列表(blog)](https://blog.ours1984.top/posts/grokking-map/)
 - [BFS(github)](grokking-bfs.md)：[广度优先搜索(blog)](https://blog.ours1984.top/posts/grokking-bfs/)
+- [BFS(github)](grokking-path.md)：[图的路径生成(blog)](https://blog.ours1984.top/posts/grokking-path/)

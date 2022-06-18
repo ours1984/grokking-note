@@ -4,7 +4,6 @@ date: '2022/4/4 22:46:25'
 tags: [算法]
 abbrlink: grokking-select
 gitrep: grokking-note
-mathjx: true
 ---
 - 学习两种最基本的数据结构——数组和链表
 - 学习第一种排序算法

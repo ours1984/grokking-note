@@ -4,7 +4,6 @@ date: '2022/4/2 22:46:25'
 tags: [算法]
 abbrlink: grokking-introduction
 gitrep: grokking-note
-mathjx: true
 ---
 - 为阅读后续内容打下基础
 - 编写第一种查找算法--二分查找
