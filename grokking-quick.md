@@ -90,4 +90,4 @@ def quicksort(array):
 - 大O表示法中的常量有时候事关重大，这就是快速排序比合并排序快的原因所在。
 - 比较简单查找和二分查找时，常量几乎无关紧要，因为列表很长时，O(log n)的速度比O(n)快得多。
 
-如果你在哪儿卡住了，可以到[这里](https://github.com/xiaoqide/note-code/blob/main/grokking-note/sort.cpp)查看源码。
+如果你在哪儿卡住了，可以到[这里](https://github.com/ours1984/note-code/blob/main/grokking-note/sort.cpp)查看源码。

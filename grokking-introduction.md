@@ -96,4 +96,4 @@ def binary_search(list, item):
 - 算法运行时间是从其增速的角度度量的。
 - 算法运行时间用大O表示法表示
 
-如果你在哪儿卡住了，可以到[这里](https://github.com/xiaoqide/note-code/blob/main/grokking-note/introduction.cpp)查看源码。
+如果你在哪儿卡住了，可以到[这里](https://github.com/ours1984/note-code/blob/main/grokking-note/introduction.cpp)查看源码。

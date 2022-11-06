@@ -14,11 +14,11 @@ An Illustrated Guide for Programmers and Other Curious People
 
 算法图解学习笔记 本笔记已同步Github
 
-[![grokking](https://github-readme-stats.vercel.app/api/pin/?username=xiaoqide&repo=grokking-note&show_owner)](https://github.com/xiaoqide/grokking-note)
+[![grokking](https://github-readme-stats.vercel.app/api/pin/?username=ours1984&repo=grokking-note&show_owner)](https://github.com/ours1984/grokking-note)
 
 涉及到的代码演示,以及其他相关资料也已经同步Github
 
-[![grokking](https://github-readme-stats.vercel.app/api/pin/?username=xiaoqide&repo=note-code&show_owner)](https://github.com/xiaoqide/note-code)
+[![grokking](https://github-readme-stats.vercel.app/api/pin/?username=ours1984&repo=note-code&show_owner)](https://github.com/ours1984/note-code)
 
 <!--more-->
 

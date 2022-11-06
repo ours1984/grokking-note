@@ -63,4 +63,4 @@ def selectionSort(arr): ←------对数组进行排序
 - 链表的插入和删除速度很快。
 - 在同一个数组中，所有元素的类型都必须相同（都为int、double等）。
 
-如果你在哪儿卡住了，可以到[这里](https://github.com/xiaoqide/note-code/blob/main/grokking-note/sort.cpp)查看源码。
+如果你在哪儿卡住了，可以到[这里](https://github.com/ours1984/note-code/blob/main/grokking-note/sort.cpp)查看源码。

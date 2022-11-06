@@ -116,4 +116,4 @@ def search(name):
 - 你需要按加入顺序检查搜索列表中的人，否则找到的就不是最短路径，因此搜索列表必须是队列。
 - 对于检查过的人，务必不要再去检查，否则可能导致无限循环。
 
-如果你在哪儿卡住了，可以到[这里](https://github.com/xiaoqide/note-code/blob/main/grokking-note/graph.cpp)查看源码。
+如果你在哪儿卡住了，可以到[这里](https://github.com/ours1984/note-code/blob/main/grokking-note/graph.cpp)查看源码。

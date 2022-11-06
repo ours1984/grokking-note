@@ -254,4 +254,4 @@ Find时间复杂读为$O(\lg e)$,外面for循环e次,所以kruskal时间复杂�
 
 ## 小结
 
-如果你在哪儿卡住了，可以到[这里](https://github.com/xiaoqide/note-code/blob/main/grokking-note/graph.cpp)查看源码。
+如果你在哪儿卡住了，可以到[这里](https://github.com/ours1984/note-code/blob/main/grokking-note/graph.cpp)查看源码。
